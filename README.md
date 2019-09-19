@@ -12,10 +12,10 @@ Azure Active Directory Library (ADAL) support for <a href="https://facebook.gith
 </p>
 
 # react-adal
-Azure Active Directory Library (ADAL) support for ReactJS
+Azure Active Directory Library (ADAL) support for ReactJS Form Post
 
 ```
-npm install react-adal
+npm install react-adal-form-post
 ```
 
 index.js
