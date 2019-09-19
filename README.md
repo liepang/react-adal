@@ -11,11 +11,11 @@ Azure Active Directory Library (ADAL) support for <a href="https://facebook.gith
   <a href="https://www.npmjs.com/package/react-adal"><img src="https://img.shields.io/npm/dm/react-adal.svg?style=flat-square"></a>
 </p>
 
-# react-adal-form-post
+# react-adal-adfs
 Azure Active Directory Library (ADAL) support for ReactJS Form Post
 
 ```
-npm install react-adal-form-post
+npm install react-adal-adfs
 ```
 
 index.js
