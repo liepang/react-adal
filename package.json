@@ -29,9 +29,9 @@
   "author": "salvoravida",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/salvoravida/react-adal/issues"
+    "url": "https://github.com/liepang/react-adal/issues"
   },
-  "homepage": "https://github.com/salvoravida/react-adal#readme",
+  "homepage": "https://github.com/liepang/react-adal#readme",
   "dependencies": {},
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0"
