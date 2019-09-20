@@ -15,7 +15,7 @@ Azure Active Directory Library (ADAL) support for <a href="https://facebook.gith
 Azure Active Directory Library (ADAL) support for ReactJS Form Post
 
 ```
-npm install react-adal-adfs
+npm install liepang/react-adal
 ```
 
 index.js
