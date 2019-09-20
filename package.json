@@ -1,5 +1,5 @@
 {
-  "name": "react-adal-adfs",
+  "name": "react-adal",
   "version": "0.4.26",
   "description": "Azure Active Directory (ADAL) support for ReactJS Form Post",
   "main": "lib/react-adal.js",
